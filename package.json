@@ -13,6 +13,9 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "imaginesdk": "^1.0.3"
+    "imaginesdk": "Iverson/imagine-sdk-js"
+  },
+  "resolutions": {
+    "unfetch": "4.2.0"
   }
 }
